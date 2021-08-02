@@ -6,7 +6,16 @@
 - 使用言語：java (C++も少し)
 - 興味のある言語：Python3 Ruby 
 - Arduino、Raspberry Piにも興味あり
+<br>
+使用PC
+- Let's note 
+  - aaa
+  - ddd
 
+- M1 macbook air
+  - aaa
+  - ddd
+  
 Arduino Leonrdo Pro Micro 互換品<br>
 Arduino Uno R3 互換品<br>
 Raspberry Pi 4<br>
