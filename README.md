@@ -3,7 +3,7 @@
 
 - 2000年生まれ
 - 東京電機大学 未来科学部 情報メディア学科 ３年
-- paiza ランク　B  https://paiza.jp/guide/career#rank
+- paizaランク:B  https://paiza.jp/guide/career#rank
 <br>
 <strong>現在ポートフォリオサイトを作成中...https://keidaihidaka.github.io/portfolio/</strong>
 <br>
@@ -11,7 +11,7 @@
 
 - 使用言語：java (C++も少し)
 - 興味のある言語：Python3 Ruby
-- 3Dプリンタ　興味あり
+- 3Dプリンタに興味あり 
 - Arduino、Raspberry Piにも興味あり
   - Arduino Leonrdo Pro Micro 互換品
   - Arduino Uno R3 互換品
