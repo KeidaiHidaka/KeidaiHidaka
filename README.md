@@ -3,6 +3,7 @@
 
 - 2000年生まれ
 - 東京電機大学 未来科学部 情報メディア学科 ３年
+- paiza ランク　B  https://paiza.jp/guide/career#rank
 <br>
 <strong>現在ポートフォリオサイトを作成中...https://keidaihidaka.github.io/portfolio/</strong>
 <br>
