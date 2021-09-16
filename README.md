@@ -11,6 +11,7 @@
 
 - 使用言語：java (C++も少し)
 - 興味のある言語：Python3 Ruby
+- 3Dプリンタ　興味あり
 - Arduino、Raspberry Piにも興味あり
   - Arduino Leonrdo Pro Micro 互換品
   - Arduino Uno R3 互換品
