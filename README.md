@@ -23,7 +23,7 @@
 <h4>使用PC</h4>
 
 
-- Let's note CF-SV7　(2019年春購入)　公式スペック表：https://panasonic.biz/cns/pc/prod/note/sv7t/spec.html
+- Let's note CF-SV7H87LC　(2019年春購入)　スペック表：https://text.univ.coop/puk/START/nus_common/webapp/data_file/html_file/shiraume-g/coop_SV7_5_181109.pdf
   - Win 10 Home
   - intel core i5(8th Gen)
   - メモリ：8GB
